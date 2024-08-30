@@ -1,0 +1,20 @@
+[
+  {
+    "measure_uuid": "12345-uuid",
+    "customer_code": "CUST001",
+    "measure_datetime": "2024-08-01T12:00:00Z",
+    "measure_type": "WATER",
+    "value": 100,
+    "has_confirmed": false,
+    "confirmed_value": null
+  },
+  {
+    "measure_uuid": "12346-uuid",
+    "customer_code": "CUST002",
+    "measure_datetime": "2024-08-15T15:00:00Z",
+    "measure_type": "GAS",
+    "value": 50,
+    "has_confirmed": true,
+    "confirmed_value": 50
+  }
+]
