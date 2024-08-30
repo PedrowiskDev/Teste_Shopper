@@ -1,7 +1,25 @@
-Olá shopper vou contar um pouco sobre o que eu achei do teste de vocês.
-Sobre o prazo para entrega eu achei bem curto recebi o email a 3 dias atrás, poderiam ter dado 1 semana seria um prazo legal, o teste em si é interessante, mas pelo prazo pedir uma integração com o gemini vision que não se tem muita informação na net achei bem puxado.
-Outra questão com essa integração é que no body request que estariamos recebendo ele vem com a imagem em codebase64 que o gemini não aceita tentei utilizar o file manager api do google pra resolver isso mas não tive sucesso e nem tempo para testar mais.
-Achei estranho tambem nao informarem quais testes iriam fazer, como seria a requisição real para a api e o resultado esperado, e não entendi o que esperar de uma foto de um medidor sem ter um exemplo.
-E sendo bem sincero no inicio eu realmente tentei implementar os end points mas nao obtive sucesso com o gemini, o que me fez usar mais as LLM's do que eu gostaria pela pressa.
-No momento tenho mais habilidades com o Front end, tenho um potfolio bem bacana, mas estou desenvolvendo minhas habilidades no back também.
-Muito obrigado pela oportunidade! E espero ter a chance de mostrar mais as minhas habilidades.
+# Feedback sobre o Teste
+
+Olá Shopper,
+
+Vou contar um pouco sobre o que achei do teste de vocês.
+
+## Prazo para Entrega
+
+Sobre o prazo para entrega, achei bem curto. Recebi o email há 3 dias, poderiam ter dado 1 semana, o que seria um prazo mais razoável. O teste em si é interessante, mas pelo prazo, pedir uma integração com o Gemini Vision, que não tem muita informação disponível na internet, achei bem puxado.
+
+## Integração com Gemini Vision
+
+Outra questão com essa integração é que no body request que estaríamos recebendo, a imagem vem em formato `base64`, que o Gemini não aceita. Tentei utilizar a File Manager API do Google para resolver isso, mas não tive sucesso e nem tempo para testar mais.
+
+## Questões Adicionais
+
+Achei estranho também não informarem quais testes seriam realizados, como seria a requisição real para a API e o resultado esperado. Além disso, não entendi o que esperar de uma foto de um medidor sem ter um exemplo.
+
+## Considerações Finais
+
+Sendo bem sincero, no início eu realmente tentei implementar os endpoints, mas não obtive sucesso com o Gemini, o que me fez usar mais as LLMs do que eu gostaria pela pressa.
+
+Atualmente, tenho mais habilidades com o Front-end e um portfólio bem bacana, mas estou desenvolvendo minhas habilidades no Back-end também.
+
+Muito obrigado pela oportunidade! Espero ter a chance de mostrar mais das minhas habilidades.
